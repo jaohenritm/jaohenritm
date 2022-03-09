@@ -11,7 +11,9 @@
 - Bachelor in Economics by Catholic University of Pernambuco (UNICAP).
 
 
+### Portfolio Projects
 
+- House Rocket Project: https://github.com/jaohenritm/Project-House-Rocket
 
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
