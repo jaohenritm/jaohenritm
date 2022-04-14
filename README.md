@@ -4,7 +4,7 @@
 	
 <h3>About Me</h3>
 	The first time that I heard about Data Science was during my bachelor, more specifically in the econometrics subject, since then my interest in this area
-	only has grown and I'm deeply focused in improving my capacity of resolving problems by learning more concepts and enchaning my proficiency with Data Science tools.
+	only has grown and I'm deeply focused in improving my capacity of resolving problems by learning more concepts and envolving my proficiency with Data Science tools.
 <br/><br/>
 
 - Data Scientist in development.
