@@ -14,7 +14,7 @@
 ### Portfolio Projects
 
 - House Rocket Insights Project: https://github.com/jaohenritm/Project-House-Rocket
-- Rossmann Sales Prediction Project: https://github.com/jaohenritm/Rossman
+- Rossmann Sales Forecast Project: https://github.com/jaohenritm/Rossman
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
