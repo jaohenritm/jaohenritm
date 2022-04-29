@@ -13,8 +13,10 @@
 
 ### Portfolio Projects
 
-- House Rocket Insights Project: https://github.com/jaohenritm/Project-House-Rocket
-- Rossmann Sales Forecast Project: https://github.com/jaohenritm/Rossman
+- House Rocket Project: https://github.com/jaohenritm/Project-House-Rocket (EN)
+- Rossmann Sales Forecast Project: https://github.com/jaohenritm/Rossman (EN)
+- Star Jeans Analysis Project: https://github.com/jaohenritm/Star-Jeans (PT-BR) (In development)
+
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
