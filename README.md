@@ -13,9 +13,12 @@
 
 ### Portfolio Projects
 
-- House Rocket Project: https://github.com/jaohenritm/Project-House-Rocket (EN)
-- Rossmann Sales Forecast Project: https://github.com/jaohenritm/Rossman (EN)
-- Star Jeans Analysis Project: https://github.com/jaohenritm/Star-Jeans (PT-BR) (In development)
+| Start Date | Project Name | Link | Status |
+| ---------- | ------------ | ---- | -------- |
+| 2022-03-27 | House Rocket Analysis | https://github.com/jaohenritm/Project-House-Rocket | Finished |
+| 2022-04-05 | Star Jeans Analysis | https://github.com/jaohenritm/Star-Jeans | Populating the Database |
+| 2022-04-19 | Rossmann Sales Forecast | https://github.com/jaohenritm/Rossman | Finished |
+| 2022-04-27 | Health Insurance Cross Sell | https://github.com/jaohenritm/Health-Insurance-Cross-Sell | Still on Deployment | 
 
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
