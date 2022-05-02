@@ -11,17 +11,17 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 
 <h3>Analytical Tools:</h3>
 	
-- Data Collect and Storage: SQL, SQLite, PostgreSQL.
+- **Data Collect and Storage:** SQL, SQLite, PostgreSQL.
 	
-- Data Processing and Analysis: Python, R.
+- **Data Processing and Analysis:** Python, R.
 	
-- Development: Git, Lean Analytics, Linux.
+- **Development:** Git, Lean Analytics, Linux.
 	
-- Data Visualization: Power BI, Streamlit, Seaborn, Matplotlib.
+- **Data Visualization:** Power BI, Streamlit, Seaborn, Matplotlib.
 	
-- Machine Learning Modelling: Classification, Regression, Time Series.
+- **Machine Learning Modelling:** Classification, Regression, Time Series.
 	
-- Machine Learning Deployment: AWS Cloud, Heroku.
+- **Machine Learning Deployment:** AWS Cloud, Heroku.
 	
 ### Projects
 
