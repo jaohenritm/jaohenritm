@@ -1,17 +1,35 @@
-<h1>Welcome to my GitHub Page!</h1>
-	<p/>My name is João Henrique Tavares.<br>
-	Here in this profile you will encounter some projects that I realized focusing on awnsering and resolve business problems. In theses projects I used the concepts and the tools of the Data Science like data analysis, machine learning and statistics.
+<h1>Welcome to my Portfolio!</h1>
+
+<div align="center">
+<a href="https://github.com/jaohenritm">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaohenritm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaohenritm&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div> 
+<a href="https://instagram.com/joaohenritm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaohenritm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joaohenritm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 	
-<h3>About Me</h3>
-	The first time that I heard about Data Science was during my bachelor, more specifically in the econometrics subject, since then my interest in this area
-	only has grown and I'm deeply focused in improving my capacity of resolving problems by learning more concepts and envolving my proficiency with Data Science tools.
-<br/><br/>
+## ***João Henrique Tavares***
+I'm 23 years old and the first time that I heard about Data Science was during my bachelor, more specifically in the econometrics subject, since then my interest in this area only has grown and I have already developed solutions for business problems such as prioritizing customers for Cross-Selling, Sales Forecasting, WebScraping and Data Analysis.
 
-- Data Scientist in development.
-- Bachelor in Economics by Catholic University of Pernambuco (UNICAP).
-
-
-### Portfolio Projects
+<h3>Analytical Tools:</h3>
+	
+- Data Collect and Storage: SQL, SQLite, PostgreSQL.
+	
+- Data Processing and Analysis: Python, R.
+	
+- Development: Git, Lean Analytics, Linux.
+	
+- Data Visualization: Power BI, Streamlit, Seaborn, Matplotlib.
+	
+- Machine Learning Modelling: Classification, Regression, Time Series.
+	
+- Machine Learning Deployment: AWS Cloud, Heroku.
+	
+### Projects
 
 | Start Date | Project Name | Link | Status |
 | ---------- | ------------ | ---- | -------- |
