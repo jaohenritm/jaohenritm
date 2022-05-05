@@ -11,7 +11,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 
 <h3>Analytical Tools:</h3>
 	
-- **Data Collect and Storage:** SQL, SQLite, PostgreSQL.
+- **Data Collect and Storage:** SQL, SQLite, PostgreSQL, WebScraping.
 	
 - **Data Processing and Analysis:** Python, R.
 	
