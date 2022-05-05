@@ -7,7 +7,7 @@
 </div>
 	
 ## ***João Henrique Tavares***
-I'm 23 years old and the first time that I heard about Data Science was during my bachelor, more specifically in the econometrics subject, since then my interest in this area only has grown and I have already developed solutions for business problems such as prioritizing customers for Cross-Selling, Sales Forecasting, WebScraping and Data Analysis.
+I'm 23 years old and the first time that I heard about Data Science was during my bachelor, more specifically in the econometrics subject, since then my interest in this area only has grown and now I am developing data products to resolve business problems.
 
 <h3>Analytical Tools:</h3>
 	
@@ -31,6 +31,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 | 2022-04-05 | Star Jeans Analysis | https://github.com/jaohenritm/Star-Jeans | Populating the Database |
 | 2022-04-19 | Rossmann Sales Forecast | https://github.com/jaohenritm/Rossman | Finished |
 | 2022-04-27 | Health Insurance Cross Sell | https://github.com/jaohenritm/Health-Insurance-Cross-Sell | Still on Deployment | 
+| 2022-05-05 | Web Scraping - Imóveis em Olinda | https://github.com/jaohenritm/Imoveis-Olinda | Finished |
 
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
