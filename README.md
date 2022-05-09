@@ -30,7 +30,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 | 2022-04-05 | Star Jeans Analysis | https://github.com/jaohenritm/Star-Jeans | Populating the Database |
 | 2022-04-19 | Rossmann Sales Forecast | https://github.com/jaohenritm/Rossman | Finished |
 | 2022-04-27 | Health Insurance Cross Sell | https://github.com/jaohenritm/Health-Insurance-Cross-Sell | Finished | 
-| 2022-05-05 | Web Scraping - Imóveis em Olinda | https://github.com/jaohenritm/Imoveis-Olinda | Finished |
+| 2022-05-05 | Imóveis em Olinda | https://github.com/jaohenritm/Imoveis-Olinda | In development |
 
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
