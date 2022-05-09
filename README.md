@@ -12,7 +12,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 	
 - **Data Collect and Storage:** SQL, SQLite, PostgreSQL, WebScraping.
 	
-- **Data Processing and Analysis:** Python, R.
+- **Data Processing and Analysis:** Python, R, Google Cloud.
 	
 - **Development:** Git, Lean Analytics, Linux.
 	
