@@ -31,6 +31,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 | 2022-04-19 | Rossmann Sales Forecast | https://github.com/joaohenritm/Rossman | Finished |
 | 2022-04-27 | Health Insurance Cross Sell | https://github.com/joaohenritm/Health-Insurance-Cross-Sell | Finished | 
 | 2022-05-05 | Imóveis em Olinda | https://github.com/joaohenritm/Imoveis-Olinda | In development |
+| 2022-05-15 | Fidelity Program - Insiders | https://github.com/joaohenritm/Insiders-Clustering | In development | 
 
 <!---
 jaohenritm/jaohenritm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
