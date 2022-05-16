@@ -28,7 +28,7 @@ I'm 23 years old and the first time that I heard about Data Science was during m
 | ---------- | ------------ | ---- | -------- |
 | 2022-03-27 | House Rocket Analysis | https://github.com/joaohenritm/Project-House-Rocket | Finished |
 | 2022-04-05 | Star Jeans Analysis | https://github.com/joaohenritm/Star-Jeans | Populating the Database |
-| 2022-04-19 | Rossmann Sales Forecast | https://github.com/jaohenritm/Rossman | Finished |
+| 2022-04-19 | Rossmann Sales Forecast | https://github.com/joaohenritm/Rossman | Finished |
 | 2022-04-27 | Health Insurance Cross Sell | https://github.com/joaohenritm/Health-Insurance-Cross-Sell | Finished | 
 | 2022-05-05 | Imóveis em Olinda | https://github.com/joaohenritm/Imoveis-Olinda | In development |
 
